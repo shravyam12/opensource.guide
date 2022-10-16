@@ -37,6 +37,6 @@ When referring to a project on GitHub, link to the repository so others can dive
 - :smile: The guide is meant to...
 - :cry: The goal of this Guide is to...
 
-## More guidance
+## More information
 
 Understand our [content model](content-model.md) and [audience](personas.md)
